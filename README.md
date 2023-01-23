@@ -1,2 +1,4 @@
-# Introduction-Python-Course-Certificate
-Introduction Python Course Certificate from sololearn.com
+# CODE CERTIFICATES
+1)CODE ORG EXPRESS COURSE; CERTIFICATE OF COMPLETION 02.02.2020
+2)CODE ORG ACCELERATED COURSE CERTIFICATE OF COMPLETION
+3)Introduction to Python (from sololearn.com)
